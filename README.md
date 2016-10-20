@@ -1,1 +1,3 @@
 # codenames
+
+- game data:
